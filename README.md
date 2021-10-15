@@ -1,2 +1,4 @@
 # autohotkey
 AutoHotKeyの自分の設定を置く
+
+Windowsでemacsっぽい挙動をさせるための設定ファイル
